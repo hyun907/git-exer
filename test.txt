@@ -1,8 +1,11 @@
 test
 test 2
 test 3
+<<<<<<< HEAD
 test 4
 <<<<<<< HEAD
 =======
+=======
+>>>>>>> 45d615d (test 6)
 test 5
 >>>>>>> 521a3dd (test 5)
