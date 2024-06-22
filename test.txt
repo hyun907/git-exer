@@ -2,6 +2,7 @@ test
 test 2
 test 3
 <<<<<<< HEAD
+<<<<<<< HEAD
 test 4
 <<<<<<< HEAD
 =======
@@ -9,3 +10,6 @@ test 4
 >>>>>>> 45d615d (test 6)
 test 5
 >>>>>>> 521a3dd (test 5)
+=======
+test 4
+>>>>>>> 4e2e71f (resolve)
